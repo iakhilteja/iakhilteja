@@ -2,7 +2,7 @@
 Hey There! I am
 
 <h1 align="center"> Akhil </h1>
-<h2 align="center"> R&D fueling for DS.CAMP | Data Scientist |  MLOps | AI-ML Enthusiast  </h2>
+<h2 align="center"> Chief R&D DS.CAMP | Data Scientist |  MLOps | AI-ML Enthusiast  </h2>
                                                                
 An Entrepreneur & Educationist. <br><br>
 Building Future Data Science Education Platforms with [DS.CAMP](https://DS.CAMP) , Full Stack ML and MLOps [iCAMP.DEV](https://iCAMP.DEV) (Under R & D - Live 2022-23). <br>
