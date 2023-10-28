@@ -5,13 +5,13 @@ Hey There! I am
 <h2 align="center"> Chief R&D DS.CAMP | Data Scientist |  MLOps | AI-ML Enthusiast  </h2>
                                                                
 An Entrepreneur & Educationist. <br><br>
-Building Future Data Science Education Platforms with [DS.CAMP](https://DS.CAMP) , Full Stack ML and MLOps [iCAMP.DEV](https://iCAMP.DEV) (Under R & D - Live 2022-23). <br>
+Building Future Data Science Education Platforms with [DS.CAMP](https://DS.CAMP) , Full Stack ML and MLOps [iCAMP.DEV](https://iCAMP.DEV) (Under R & D - Live 2023-24). <br>
 Passionate about coding , Innovation and wanna be the disruptor in the field of Education. 
 
 ### 💼 My On-Going Research Portfolio : 
 * Data Scientist and AI ML Research chief at [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
-* Mathematics for Programmers and Cryptography at [ALGOS.CAMP](https://algos.camp) (Live 2022) 🔄
-* Full stack AI/ML Software Architect [iCAMP.DEV](https://iCAMP.DEV) (Live 2021-23) 🔄
+* Mathematics for Programmers and Cryptography at [ALGOS.CAMP](https://algos.camp) (Live 2024) 🔄
+* Full stack AI/ML Software Architect [iCAMP.DEV](https://iCAMP.DEV) (Live 2021-24) 🔄
 * Data Science - AI/ML R&D with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
 
 <br>
