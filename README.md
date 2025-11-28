@@ -2,22 +2,15 @@
 Hey There! I am
 
 <h1 align="center"> Akhil </h1>
-<h2 align="center"> Chief R&D DS.CAMP | Data Scientist |  MLOps | AI-ML Enthusiast  </h2>
+<h2 align="center"> Head of AI | Data Scientist |  MLOps  </h2>
                                                                
 An Entrepreneur & Educationist. <br><br>
-Building Future Data Science Education Platforms with [DS.CAMP](https://DS.CAMP) , Full Stack ML and MLOps [iCAMP.DEV](https://iCAMP.DEV) (Under R & D - Live 2023-24). <br>
-Passionate about coding , Innovation and wanna be the disruptor in the field of Education. 
+Experienced AI Engineer with hands-on expertise in building AI-driven products within a crypto accelerator environment. Skilled in developing and deploying GenAI applications, machine learning systems, and predictive models tailored to blockchain and tokenization use cases. Proven track record in designing internal tooling, tokenomics-aligned automations, and scalable AI features that enhance product intelligence and user experience. Strong background in ML workflows, data pipelines, and model optimization for real-world performance and business impact. Committed to driving innovation at the intersection of AI and decentralized technologies. <br>
 
-### 💼 My On-Going Research Portfolio : 
-* Data Scientist and AI ML Research chief at [DS.CAMP](https://DS.CAMP) (Live 2023-24)  🔄
-* Mathematics for Programmers and Cryptography at [ALGOS.CAMP](https://algos.camp) (Live 2024) 🔄
-* Full stack AI/ML Software Architect [iCAMP.DEV](https://iCAMP.DEV) (Live 2021-24) 🔄
-* Data Science - AI/ML R&D with [CS.CAMP](https://CS.CAMP) & [CS.DEGREE](https://CS.DEGREE) (Live 2023-24)  🔄
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40iakhilteja-%231DA1F2)](https://twitter.com/iakhilteja) 
-[![Instagram](https://img.shields.io/badge/Instagram-iakhilteja-%23bc2a8d%09)](https://instagram.com/iakhilteja)
+[![Twitter](https://img.shields.io/badge/Twitter-%400xiakhil-%231DA1F2)](https://twitter.com/0xiakhil) 
 [![Linkedin](https://img.shields.io/badge/Linked%20in-iakhilteja-blue)](https://www.linkedin.com/in/iakhilteja)
 
 
